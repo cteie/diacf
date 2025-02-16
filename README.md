@@ -1,1 +1,1 @@
-# diacf
+This is currently an anonymous repository of the paper “LLMs Diversified Inference and Activation Compression Fusion for Information Extraction in Open-Domain”. It contains part of the codes for the proposed DIACF model. All the codes will be publicly available once the paper is accepted.
